@@ -1,4 +1,6 @@
 # react-native-nitro-library-example
+This repo is for local setup only
+
 
 Example
 
@@ -7,7 +9,7 @@ Example
 ```sh
 npm install react-native-nitro-library-example react-native-nitro-modules
 
-> `react-native-nitro-modules` is required as this library relies on [Nitro Modules](https://nitro.margelo.com/).
+> `react-native-nitro-modules` is required as this library relies on [Nitro Modules](https://nitro.margelo.com/). and please run npx nitro-codegen inside library for nitrogen generated code
 ```
 
 ## Usage
